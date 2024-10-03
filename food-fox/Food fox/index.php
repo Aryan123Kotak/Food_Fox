@@ -191,9 +191,9 @@
                 <div class="swiper-slide slide">
                     <img src="images/pic-1.png" alt="">
                     <h3>Aryan</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur sunt eligendi est, dicta
-                        maiores amet nihil perferendis, incidunt maxime aspernatur exercitationem laboriosam odio
-                        dolores magnam ratione atque, quasi odit. Hic!</p>
+                    <p>Amazing platform! Ordering from local food stalls has never been easier. I love how the cart feature lets me 
+                    review my order before checkout, and food stalls can update their menu as needed. The reviews section is a great 
+                    addition for honest feedback.</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -206,9 +206,9 @@
                 <div class="swiper-slide slide">
                     <img src="images/pic-2.png" alt="">
                     <h3>Vasu</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur sunt eligendi est, dicta
-                        maiores amet nihil perferendis, incidunt maxime aspernatur exercitationem laboriosam odio
-                        dolores magnam ratione atque, quasi odit. Hic!</p>
+                    <p>The flexibility of this website is fantastic! Stall owners can add or remove dishes 
+                        whenever they want, and the cart system is so intuitive. Delivery is quick, and it's 
+                        great to share my food experience with others through reviews.</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -221,9 +221,8 @@
                 <div class="swiper-slide slide">
                     <img src="images/pic-3.bmp" alt="">
                     <h3>Jay</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur sunt eligendi est, dicta
-                        maiores amet nihil perferendis, incidunt maxime aspernatur exercitationem laboriosam odio
-                        dolores magnam ratione atque, quasi odit. Hic!</p>
+                    <p>Convenient and efficient! I can easily order from nearby stalls, and the cart feature
+                         makes managing orders a breeze. Plus, it's nice that owners can change their menu anytime, keeping it fresh.</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -236,9 +235,8 @@
                 <div class="swiper-slide slide">
                     <img src="images/pic-4.png" alt="">
                     <h3>samrth</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur sunt eligendi est, dicta
-                        maiores amet nihil perferendis, incidunt maxime aspernatur exercitationem laboriosam odio
-                        dolores magnam ratione atque, quasi odit. Hic!</p>
+                    <p>I really enjoy using this service. The cart functionality is seamless, and I appreciate how food stalls can adjust their offerings regularly.
+                         The review system is perfect for providing honest opinions on the dishes.</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -250,9 +248,8 @@
                 <div class="swiper-slide slide">
                     <img src="images/pic-5.jpg" alt="">
                     <h3>path</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur sunt eligendi est, dicta
-                        maiores amet nihil perferendis, incidunt maxime aspernatur exercitationem laboriosam odio
-                        dolores magnam ratione atque, quasi odit. Hic!</p>
+                    <p>Great for local food lovers! The ability for stall owners to update their menus in real-time is impressive, 
+                        and the cart concept makes ordering hassle-free. I also like being able to leave an honest review after each order.</p>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
